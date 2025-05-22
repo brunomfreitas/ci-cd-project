@@ -72,3 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 # teste de deploy
 # teste de deploy 2
+
+# link do frontend
+https://delightful-mushroom-05baaa31e.6.azurestaticapps.net/
